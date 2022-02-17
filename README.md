@@ -13,7 +13,7 @@ among other things there is:
 *************************************************
 ### *** CHECK IT OUT *** 
 
-[https://saelex.com/authburger](https://saelex.com/authburger)
+[https://zaxel.github.io/mixed_features_react_app/](https://zaxel.github.io/mixed_features_react_app/)
 
 
 `to see shop orders simulation you'll have to switch !App.js to App.js`                            
